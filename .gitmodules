@@ -1,0 +1,3 @@
+[submodule "dog-loyalty"]
+	path = dog-loyalty
+	url = git@github.com:gwdgithubnom/dog-loyalty.git
